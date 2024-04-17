@@ -205,7 +205,7 @@
 
 						<div class="col col-m-12 col-t-6 col-d-4 box-item f-graphic animated">
 							<div class="image">
-								<a href="#popup-2" class="has-popup"><img src="/assets/images/works/work3.jpg" alt="" /></a>
+								<a href="#popup-2" class="has-popup"><img src="/assets/images/works/work2.jpg" alt="" /></a>
 							</div>
 							<div class="content-box" style="height:150px;">
 								<a href="#popup-2" class="name has-popup">Realtor website </a>
@@ -233,7 +233,7 @@
 						</div>
 						<div class="col col-m-12 col-t-6 col-d-4 box-item f-mockup animated">
 							<div class="image">
-								<a href="#popup-3" class="has-popup"><img src="/assets/images/works/work2.jpg" alt="" /></a>
+								<a href="#popup-3" class="has-popup"><img src="/assets/images/works/work3.jpg" alt="" /></a>
 							</div>
 							<div class="content-box" style="height:150px;">
 								<a href="#popup-3" class="name has-popup">Abstract Construction Company website</a>
