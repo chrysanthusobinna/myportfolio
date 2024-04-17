@@ -6,8 +6,8 @@
 	<!-- Basic -->
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Chrysanthus -  Portfolio </title>
-	<meta name="description" content="">
-	<meta name="keywords" content="">
+	<meta name="description" content="Chrysanthus Obinna Chiagwah - Porfolio">
+	<meta name="keywords" content="Chrysanthus Obinna Chiagwah - Porfolio">
 	
 	<!-- Mobile Specific Metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -29,7 +29,7 @@
 	<![endif]-->
 	
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="images/favicons/favicon.ico">
+	<link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125314689-11"></script>
@@ -72,36 +72,8 @@
 					<li class="active">
 						<a class="btn_animated" href="#home-section"><span class="circle">Home</span></a>
 					</li>
-					<li>
-						<a class="btn_animated" href="#about-section"><span class="circle">About</span></a>
-					</li>
-					<li>
-						<a class="btn_animated" href="#skills-section"><span class="circle">Skills</span></a>
-					</li>
-					<li>
-						<a class="btn_animated" href="#experience-section"><span class="circle">Experience</span></a>
-					</li>
-					<li>
-						<a class="btn_animated" href="#service-section"><span class="circle">Services</span></a>
-					</li>
-					<li>
-						<a class="btn_animated" href="#education-section"><span class="circle">Education</span></a>
-					</li>
-					<li>
-						<a class="btn_animated" href="#works-section"><span class="circle">Portfolio</span></a>
-					</li>
-					<li>
-						<a class="btn_animated" href="#clients-section"><span class="circle">Clients</span></a>
-					</li>
-					<li>
-						<a class="btn_animated" href="#pricing-section"><span class="circle">Pricing</span></a>
-					</li>
-					<li>
-						<a class="btn_animated" href="#blog-section"><span class="circle">Blog</span></a>
-					</li>
-					<li>
-						<a class="btn_animated" href="#contact-section"><span class="circle">Contact Me</span></a>
-					</li>
+			 
+ 
 				</ul>
 				<a href="#" class="menu-btn"><span></span></a>
 			</div>
@@ -147,7 +119,7 @@
 								<div class="info-list">
 									<ul>
 										<li><strong><span >Profession:</span></strong> Full Stack Web Developer</li>
-										<li ><strong><span>Address:</span></strong> 63 bradwshawgate . Bolton BL! 1QD</li>
+										<li ><strong><span>Address:</span></strong> Bolton, Manchester</li>
 										<li><strong><span>Phone:</span></strong> <a href="tel:08033526576">08033526576</a></li>
 										<li><strong><span>E-mail:</span></strong> <a href="mailto:chrysanthusobinna@gmail.com">chrysanthusobinna@gmail.com</a></li>
 									</ul>
@@ -202,7 +174,7 @@
 							<div class="image">
 								<a href="#popup-1" class="has-popup"><img src="/assets/images/works/work1.jpg" alt="" /></a>
 							</div>
-							<div class="content-box">
+							<div class="content-box" style="height:150px;">
 								<a href="#popup-1" class="name has-popup">Auto Trade Website </a>
 								<p>
 									PHP | HTML | JAVASCRIPT 
@@ -221,8 +193,8 @@
 											 fetching vehicle specifications using registration numbers. With intuitive features and streamlined processes, users can confidently 
 											 post cars for sale with precision and ease.  
 										</p>
-										<a href="" class="btn btn_animated"><span class="circle">View Project</span></a>
-										<a href="" class="btn btn_animated"><span class="circle">CODE ON GITHUB</span></a>
+										<a target="_blank" href="https://www.autotrade.chrys-online.com" class="btn btn_animated"><span class="circle">View Project</span></a> &nbsp;
+										<a target="_blank" href="https://github.com/chrysanthusobinna/autosales" class="btn btn_animated"><span class="circle">CODE ON GITHUB</span></a>
 									</div>
 								</div>
 							</div>
@@ -235,8 +207,8 @@
 							<div class="image">
 								<a href="#popup-2" class="has-popup"><img src="/assets/images/works/work3.jpg" alt="" /></a>
 							</div>
-							<div class="content-box">
-								<a href="#popup-2" class="name has-popup">Apartment Rental website </a>
+							<div class="content-box" style="height:150px;">
+								<a href="#popup-2" class="name has-popup">Realtor website </a>
 								<p>
 									PHP | HTML | JAVASCRIPT 
 								</p>
@@ -244,16 +216,17 @@
 							<div id="popup-2" class="popup-box mfp-fade mfp-hide">
 								<div class="content">
 									<div class="image">
-										<img src="/assets/images/works/work3.jpg" alt="">
+										<img src="/assets/images/works/work2.jpg" alt="">
 									</div>
 									<div class="desc">
-										<h4>Apartment Rental website </h4>
+										<h4>Realtor website </h4>
 										<p>
-											an innovative Apartment Rental website designed to streamline the housing search process. Agents can easily register and post
-											 available properties for rent, while users can effortlessly search, filter, and view house listings online. With seamless
-											  image browsing and direct agent contact features, finding the perfect rental has never been easier.
+											  A user-friendly website for buying and selling houses. Agents easily post properties; buyers can browse listings, contact
+											   agents directly. Admin dashboard for managing listings & agent accounts.  it offers a seamless platform for realtors to register as agents, 
+											   list properties for sale, and for buyers to browse listings and contact agents directly.
 										</p>
-										<a href="#" class="btn btn_animated"><span class="circle">View Project</span></a>
+										<a target="_blank" href="http://realtor.chrys-online.com/" class="btn btn_animated"><span class="circle">View Project</span></a> &nbsp;
+										<a target="_blank" href="https://github.com/chrysanthusobinna/chrysrealtors" class="btn btn_animated"><span class="circle">CODE ON GITHUB</span></a>				
 									</div>
 								</div>
 							</div>
@@ -262,7 +235,7 @@
 							<div class="image">
 								<a href="#popup-3" class="has-popup"><img src="/assets/images/works/work2.jpg" alt="" /></a>
 							</div>
-							<div class="content-box">
+							<div class="content-box" style="height:150px;">
 								<a href="#popup-3" class="name has-popup">Abstract Construction Company website</a>
 								<p>
 									LARAVEL | HTML | CSS | JAVASCRIPT 
@@ -271,7 +244,7 @@
 							<div id="popup-3" class="popup-box mfp-fade mfp-hide">
 								<div class="content">
 									<div class="image">
-										<img src="/assets/images/works/work2.jpg" alt="">
+										<img src="/assets/images/works/work3.jpg" alt="">
 									</div>
 									<div class="desc">
 										<h4>Abstract Construction Company website </h4>
@@ -282,8 +255,8 @@
 											   frontend code duplication, demonstrating the efficiency and elegance of modern web development techniques. Explore how this 
 											   project sets a new standard for streamlined website design and development on my portfolio today.
 										</p>
-										<a href="#" class="btn btn_animated"><span class="circle">View Project</span></a>
-									</div>
+										<a target="_blank" href="https://construction.chrys-online.com/" class="btn btn_animated"><span class="circle">View Project</span></a> &nbsp;
+										<a target="_blank" href="https://github.com/chrysanthusobinna/chrys-construction-company" class="btn btn_animated"><span class="circle">CODE ON GITHUB</span></a>									</div>
 								</div>
 							</div>
 						</div>
@@ -298,7 +271,7 @@
 
 			<!-- Footer -->
 			<footer>
-				<div class="copy">© 2016 mCard. All rights reserved.</div>
+				<div class="copy"> &copy; <script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://www.linkedin.com/in/chrysanthus-obinna">Chrysanthus.C.</div>
 			</footer>
 			
 		</div>
